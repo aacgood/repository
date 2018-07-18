@@ -82,6 +82,7 @@ https://gallery.technet.microsoft.com/scriptcenter/Get-StringHash-aa843f71
         [System.Net.ServicePointManager]::SecurityProtocol = $AllProtocols
         [System.Net.ServicePointManager]::CertificatePolicy = New-Object TrustAllCertsPolicy
 
+        Write-Output "Pwned Passwords by https://haveibeenpwned.com/"
     }
 
 
