@@ -6,7 +6,6 @@ Check a password against the Troy Hunt Pwned Passwords service
 .DESCRIPTION
 Check a supplied password against over 500 Million known to be previously exposed in data breaches.
 
-
 .PARAMETER passwords
 Enter a single password or a series of passwords in a comma delimited list
 
